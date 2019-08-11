@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457657177527",
+    "firebase_url": "https://ebook-f77a4.firebaseio.com",
+    "project_id": "ebook-f77a4",
+    "storage_bucket": "ebook-f77a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457657177527:android:84601168b788b092",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457657177527-anvr9lvmm6816fs3bdov54scplt4bfii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signin",
+            "certificate_hash": "df3539918cad853074c11d0533914cfa7ff36c20"
+          }
+        },
+        {
+          "client_id": "457657177527-fsufj1aus7etb0q9591gmvf3qiklrqfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ly0K3d3KHIUaJnATY5VvRdupY9YLzGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457657177527-fsufj1aus7etb0q9591gmvf3qiklrqfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
